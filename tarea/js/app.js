@@ -15,3 +15,4 @@ async function mostrarPosts() {
   }
   
   mostrarPosts();
+// Fin de la función
